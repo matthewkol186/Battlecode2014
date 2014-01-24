@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="teams"/>
+	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/bin"/>
+	<classpathentry kind="con" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/bin/Firstplayer"/>
+	<classpathentry kind="con" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/bin/examplefuncsplayer"/>
+	<classpathentry kind="con" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/lib"/>
+	<classpathentry kind="con" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/teams"/>
+	<classpathentry kind="con" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/teams/Firstplayer"/>
+	<classpathentry kind="con" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/teams/examplefuncsplayer"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/lib/battlecode-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/lib/battlecode-player.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/lib/battlecode-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matthew/Battlecode2014/BattleCode installed/lib/jogl.all.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
